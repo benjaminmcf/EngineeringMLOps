@@ -1,2 +1,6 @@
 .DS_Store
 .ipynb_checkpoints/
+venv
+mlruns
+venv_3_7_9
+.python-version
